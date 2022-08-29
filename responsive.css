@@ -1,0 +1,685 @@
+@media only screen and (max-width: 1600px) and (min-width: 1400px){
+    .hero-section-container{
+        width: 100%;
+        max-width: none;
+        height: auto;
+    }
+    .hero-section-main{
+        height: 800px;
+    }
+    .hero-section-content{
+        position: absolute;
+        top: 200px;
+        left: 210px;
+    }
+    .hero-main-text{
+        font-size: 105px;
+    }
+    .hero-section-content p{
+        margin: 45px 12px;
+        font-size: 16px;
+        width: 380px;
+    }
+    .hero-contact-btn{
+        padding: 13px 26px;
+        font-size: 16px;
+    }
+    .service-section{
+        padding: 50px 0 85px;
+        width: 100%; 
+        max-width: none;  
+    }
+    .our-service-row{
+        margin: 60px 10%; 
+    }
+    .our-service-row > *{
+       width: 23%;
+       margin: 1%;
+       padding: 0;
+    }  
+    .our-service-row .card img{
+        width: 75px;
+        height: 75px;
+    }
+    .card-body .card-title{
+        font-size: 18px;
+    }
+    .about-us{
+        padding: 60px 10%;
+        max-width: none;
+        width: 100%;
+    }
+    .about-us-right-text-box h1{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .about-us-right-text-box-button{
+        margin-top: 5px;
+    }
+    .our-concept{
+        padding: 40px 10%;
+    }
+    .concept-content p{
+        font-size: 15px;
+    }
+    .our-projects{
+        padding: 80px 10% 100px;
+    }
+    .clients-say{
+        padding: 0 10% 80px;
+    }
+    .clients-say-container{
+        margin: 40px 0;
+    }
+    .last-read-more{
+        margin-top: 70px;
+    }
+    .contact-container{
+        padding: 0 3%;
+        height: 600px;
+    }
+    .contact-main{
+        padding: 60px 0;
+    }
+    .contact-main h1{
+        font-size: 33px;
+    }
+    .contact-main .row{
+        top: 140px;
+    }
+    .contact-main .row .form-group textarea{
+        height: 170px;
+    }
+    .copyright-section{
+        padding: 40px 0 15px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1399px) and (min-width: 1200px){
+    .hero-section-main{
+        height: 700px;
+    }
+    .hero-section-content{
+        position: absolute;
+        top: 140px;
+        left: 180px;
+    }
+    .hero-section-container {
+        height: auto;
+    }
+    .hero-main-text{
+        font-size: 90px;
+    }
+    .hero-section-content p{
+        margin: 40px 12px;
+    }
+    .hero-contact-btn{
+        padding: 11px 24px;
+        font-size: 15px;
+    }
+    .service-section{
+        padding: 85px 0; 
+    }
+    .our-service-row{
+        margin: 60px 8%; 
+    }
+    .our-service-row > *{
+        width: 25%;
+        margin: auto;
+        padding: 0;
+     } 
+     .our-service-row .card{
+        border: none;
+        width: 100%;
+    }
+    .about-us{
+        padding: 60px 8%;
+        max-width: none;
+        width: 100%;
+    }
+    .about-us .row> *{
+        width: 50%;  
+    }
+    .about-us-dotted-bg{
+        width: 100%;
+        height: 80%;
+    }
+    .about-us-left-photo{
+        position: absolute;
+        top: -20px;
+        left: 10px;
+        width: 90%;
+        height: 90%;
+    }
+    .about-us-right-text-box h1{
+        font-size: 25px;
+    }
+    .about-us-right-text-box-button{
+        margin-top: 3px;
+    }
+
+    .last-read-more{
+        margin-top: 80px;
+    }
+}
+
+
+@media screen and (max-width: 1199px) and (min-width: 992px){
+    .hero-section-main{
+        height: 600px;
+    }
+    .hero-section-content{
+        top: 110px;
+        left: 150px;
+    }
+    .hero-section-container {
+        height: auto;
+    }
+    .hero-main-text{
+        font-size: 70px;
+    }
+    .hero-section-content p{
+        margin: 30px 5px;
+    }
+    .hero-contact-btn{
+        padding: 8px 18px;
+        font-size: 13px;
+    }
+    .service-section{
+        padding: 75px 0; 
+    }
+    .our-service-row{
+        margin: 40px 5%; 
+    }
+    .our-service-row{
+        margin: 40px auto; 
+    }
+    .our-service-row > *{
+        padding: 0 20px;
+    }
+    .our-service-row .card{
+        width: 15rem;
+    }
+    .our-service-row .card img{
+        width: 55px;
+        height: 55px;
+    }
+    .card-body .card-title{
+        font-size: 18px;
+    }
+    .card-body .card-text{
+        font-size: 14px;
+    }
+    .card-body .btn{
+        margin-top: 8px;
+    }
+    .about-us{
+        padding: 40px 7%;
+    }
+    .about-us-dotted-bg{
+        width: 95%;
+        height: 80%;
+    }
+ .about-us-left-photo{
+        position: absolute;
+        top: -20px;
+        left: 10px;
+        width: 90%;
+        height: 90%;
+    }
+    .about-us-right-text-box{
+        width: 65%;
+    }
+    .about-us-right-text-box h1{
+        font-size: 20px;
+    }
+    .about-us-right-text-box p{
+        font-size: 13px;
+    }
+    .our-concept{
+        width: 100%;
+        padding: 40px 7%;
+    }    
+    .concept-left-box, .concept-right-box{
+        height: 335px;
+        width: 400px;
+    }
+    .concept-right-box{
+        background-image: url('photos/consept-right.png');
+    }
+    .concept-content p{
+        font-size: 15px;
+    }
+    .our-projects{
+        width: 100%;
+        padding: 40px 7%;
+    }
+    .our-projects h1{
+        margin: 15px 0;
+    }
+    .our-projects p{
+        font-size: 15px;
+    }
+    .main-carousel{
+        margin: 40px auto 0;
+        width: 100%;
+    }
+    .carousel {
+        width: 90%;
+        height: 300px; 
+      }
+      .nav {
+        width: 35px;
+        height: 35px;
+      }
+      .nav-left {
+        left: -50px;
+      }
+      
+      .nav-right {
+        right: -50px;
+      }
+    .clients-say{
+        width: 100%;
+        padding: 0 7% 50px;
+    }
+    .clients-say-container{
+        margin: 50px 0;
+    }
+    .clients-opinion{
+        margin: 15px 0;
+    }
+    .clients-comment-box h5 {
+        font-size: 18px;
+    }
+    .clients-comment-box p {
+        font-size: 13px;
+    }
+    .last-read-more {
+        margin-top: 60px;
+    }
+    .footer-container .row .col-sm-3 h3 {
+        margin-bottom: 21px;
+        font-size: 19px;
+    }
+    .footer-container p,  .footer-container a{
+        font-size: 13px;
+    }
+ 
+  }
+ 
+
+
+  @media screen and (max-width: 991px) and (min-width: 768px){
+    .hero-section-main{
+        height: 500px;
+    }
+    .hero-section-content{
+        top: 90px;
+        left: 130px;
+    }
+    .hero-section-container {
+        height: auto;
+    }
+    .hero-main-text{
+        font-size: 60px;
+    }
+    .hero-section-content p{
+        font-size: 13px;
+        margin: 20px 5px;
+    }
+    .hero-contact-btn{
+        padding: 8px 18px;
+        font-size: 13px;
+    }
+    .service-section{
+        padding: 55px 0; 
+    }
+    .our-service-row{
+        margin: 40px 5%; 
+    }
+    .our-service-row{
+        margin: 30px auto; 
+    }
+    .our-service-row > *{
+        padding: 0 15px;
+    }
+    .our-service-row .card{
+        width: 12rem;
+    }
+    .our-service-row .card img{
+        width: 55px;
+        height: 55px;
+    }
+    .card-body .card-title{
+        font-size: 17px;
+    }
+    .card-body .card-text{
+        font-size: 13px;
+    }
+    .card-body .btn{
+        margin-top: 7px;
+    }
+    .about-us{
+        padding: 70px 7%;
+        width: 100%;
+    }
+    .about-us-left{
+        position: relative;
+        margin-top: 70px;
+    }
+    .about-us-dotted-bg{
+        width: 95%;
+        height: 90%;
+    }
+    .about-us-left-photo{
+        position: absolute;
+        top: -40px;
+        left: 10px;
+        width: 90%;
+    }
+    .about-us-right{
+        position: relative;
+
+    }
+    .about-us-right-photo{
+        width: 100%;
+        height: 100%;
+    }
+    .about-us-right-text-box{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 65%;
+    }
+    .about-us-right-text-box h1{
+        font-size: 20px;
+        font-weight: 600;
+       
+    }
+    .about-us-right-text-box p{
+        font-size: 12px;
+        margin: 0;
+        padding: 0;
+    }
+    .about-us-right-text-box-button{
+        float: right;
+        margin-top: 0;
+        background-color: #ed1c24;
+        color: white;
+        font-size: 12px;
+    }
+    .our-concept{
+        padding: 20px 5%;
+    }  
+    .concept-left-box, .concept-right-box{
+        height: 285px;
+        width: 300px;
+    }
+    .nav {
+        width: 25px;
+        height: 25px;
+      }
+      .nav-left {
+        left: -30px;
+      }
+      
+      .nav-right {
+        right: -30px;
+      }
+      .clients-say{
+        width: 100%;
+        padding: 0 7% 20px;
+    }
+    .clients-say-container{
+        margin: 30px 0;
+    }
+    .clients-opinion{
+        margin: 10px 0;
+    }
+    .clients-comment-box h5 {
+        font-size: 15px;
+    }
+    .clients-comment-box p {
+        font-size: 12px;
+    }
+    .last-read-more {
+        margin-top: 110px;
+    }
+    .footer-container .row .col-sm-3 h3 {
+        font-size: 15px;
+    }
+    .footer-container .row > *{
+        width: 48%;
+        margin-right: 2%;
+        margin-bottom: 20px;
+    }
+    .footer-container p,  .footer-container a{
+        font-size: 12px;
+    }
+    .copyright-section{
+        padding: 20px 0 10px;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 767px){
+    .hero-section-main{
+        height: 400px;
+    }
+    .hero-section-content{
+        top: 80px;
+        left: 50px;
+    }
+    .hero-section-container {
+        height: auto;
+    }
+    .hero-main-text{
+        font-size: 30px;
+    }
+    .hero-section-content p{
+        font-size: 12px;
+        margin: 20px 5px;
+        width: 80%;
+    }
+    .hero-contact-btn{
+        padding: 4px 10px;
+        font-size: 12px;
+    }
+    .service-section{
+        padding: 35px 0; 
+    }
+    .service-section h1{
+         font-size: 18px;
+    }
+    .service-section p{
+        font-size: 12px;
+   }
+    .our-service-row{
+        margin: 30px 2%; 
+    }
+    .our-service-row > *{
+        padding: 0;
+    }
+    .our-service-row .card{
+        width: 100%;
+        margin: 20px 0;
+    }
+    .our-service-row .card img{
+        width: 35px;
+        height: 35px;
+    }
+    .card-body .card-text{
+        font-size: 12px;
+    }
+    .card-body .btn{
+        margin-top: 0px;
+    }
+    .about-us{
+        padding: 30px 0%;
+        width: 100%;
+    }
+    .about-us-left{
+        position: relative;
+        margin-top: 40px;
+    }
+    .about-us-dotted-bg{
+        width: 95%;
+        height: 90%;
+    }
+    .about-us-left-photo{
+        position: absolute;
+        top: -40px;
+        left: 10px;
+        width: 90%;
+    }
+    .about-us-right-text-box{
+        width: 65%;
+    }
+    .about-us-right-text-box h1{
+        font-size: 16px;
+        margin-bottom: 3px;
+    }
+    .about-us-right-text-box p{
+        font-size: 12px;
+        margin: 0;
+        padding: 0;
+    }
+    .about-us-right-text-box-button{
+        margin-top: 5px;
+        font-size: 12px;
+        padding: 5px;
+    }
+    .our-concept{
+        padding: 10px 2%;
+    }  
+    .our-concept-row > *{
+        width: 100%;
+    }
+    .concept-left-box, .concept-right-box{
+        height: 255px;
+        width: 90%;
+    }
+    .concept-content h4{
+        font-size: 18px;
+        margin: 10px 0;
+    }
+    .concept-content p{
+        font-size: 12px;
+    }
+    .who-we-are p:nth-child(3){
+        font-size: 12px;
+    }
+    .our-projects{
+        padding: 30px 2%;
+    }
+    
+    .our-concept-heading{
+        margin: 60px 0 10px;
+    }
+    
+    .our-concept-heading h1 {
+        font-size: 18px;
+    }
+    .our-concept-heading p {
+        font-size: 12px;
+    }
+    .carousel {
+    width: 80%;
+    height: 300px; 
+    }
+    .slide {
+    border: 3px solid white;
+    }
+    .view-more-slide{
+        padding: 5px;
+    }
+
+    .nav {
+    width: 20px;
+    height: 20px;
+    }
+
+    .nav-left {
+    left: -15px;
+    }
+
+    .nav-right {
+    right: -15px;
+    }
+
+    .carousel-arrow-icon-left {
+    margin-left: 0px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .carousel-arrow-icon-right {
+    margin-left: 0px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .clients-say-container{
+        margin: 30px 0;
+    }
+    .clients-opinion{
+        display: flex;
+        flex-direction: column;
+        margin: 20px 0;
+    }
+    .clients-comment-box h5{
+        margin-top: 20px;
+    }
+    .contact-container{
+        height: 1100px;
+    }
+    .contact-main .row > *{
+        width: 100%;
+    }
+    .contact-main iframe{
+        width: 100%;
+    }
+    .footer-container .row > *{
+        width: 100%;
+        margin: 20px 0;
+    }
+    .footer-container p,  .footer-container a{
+        font-size: 12px;
+    }
+    .subscribe-footer-container{
+        display: flex;
+        justify-content: space-between;
+        margin: 20px 0;
+    }
+    .subscribe-footer{
+        width: 90%;
+        padding-bottom: 5px;
+        text-align: right;
+    }
+    .subscribe-footer input{
+        width: 55%;
+        padding: 2px;
+    }
+    .subscribe-footer button{
+        width: 45%;
+    }
+    
+}
+
+
+
+
+
+
+
+  
+
